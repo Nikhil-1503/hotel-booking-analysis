@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Analysis in Snowflake
+# 🏨 StayInsights: Hotel Booking Analytics in Snowflake
 
 ## 📌 Project Overview
 
