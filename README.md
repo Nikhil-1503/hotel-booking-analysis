@@ -20,7 +20,7 @@ Bronze → Silver → Gold
 
 ## 🏗 Architecture
 
-![Architecture](images/architecture_diagram.jpg)
+<img src="images/architecture_diagram.jpg" width="600">
 
 🔹 Bronze Layer (Raw Data)
 
@@ -74,6 +74,7 @@ Applied transformations:
 - Aggregation & KPI Design
 
 ## 📁 Project Structure
+```
 /sql
     bronze_layer.sql
     silver_layer.sql
@@ -83,6 +84,7 @@ Applied transformations:
 /images
     dashboard_screenshots.png
 README.md
+```
 
 ## 🚀 Learning Outcomes
 
